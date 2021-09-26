@@ -1,0 +1,1 @@
+this is my odin final project on the foundation path based only on html and css. i completed it in 6hrs(9am-3pm, sunday 26/9/2021)
